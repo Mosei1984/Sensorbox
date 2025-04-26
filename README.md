@@ -210,9 +210,7 @@ The system provides a web interface accessible via WiFi:
 5. Access the web interface by navigating to the ESP32's IP address
 6. The interface provides:
    - Real-time sensor readings
-   - Historical data graphs
    - Configuration options
-   - Alert settings
 
 ## Usage
 
